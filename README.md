@@ -11,6 +11,7 @@
 </div>
   
  
+![Snake animation](https://raw.githubusercontent.com/npbandeira/npbandeira/output/github-contribution-grid-snake.svg)
  
  
  
